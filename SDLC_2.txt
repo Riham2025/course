@@ -1,0 +1,48 @@
+Introduction to the Software Development Life Cycle (SDLC)
+
+                  Phase 1: Analysis:
+
+Explain: The project manager gather inputs from customers, market surveys, and sales departments to understand the project's scope.
+Role: Product owner, Project manager ,Business aanalyst ,CTO
+Input: Project idea, market research, business needs.
+Output: Project plan and requirements specification.
+
+
+                  Phase 2: Design
+
+Explain:Translate the requirements in to a detailed design specification. 
+Role: system Architect ,UX/UI designer
+Input:System specifications from analysis phase.
+Output:System design document and database schema.
+
+
+                  Phase 3: Development
+
+Explain:Develop the software based on the design specifications.
+Role:Front-end developer ,Back-end developer 
+Input:code
+Output:Functional software code and test results
+
+
+                  Phase 4: Testing
+
+Explain:Identify and fix defects in the software.
+Role:Solutions Architect ,QA Engineer ,Tester ,DevOps.
+Input:Functional software code and test cases.
+Output:Test reports.
+
+                   Phase 5: Deployment
+
+Explain:Release the software to the production environment
+Role:Data Administrator ,DevOps
+Input:Tested software code.
+Output:Live system.
+
+
+                    Phase 6: Maintenance
+
+Explain:Provide ongoing support and enhancements to the software.
+Role:Users ,Testers ,Support managers.
+Input:User feedback.
+Output:Updated software versions and reports.
+
