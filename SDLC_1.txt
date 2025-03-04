@@ -1,0 +1,30 @@
+state all the roles / titles that you know in the SDLC, their responsibilities and tools that they used if any
+
+
+                 Phase 1: Analysis
+Product Owner:
+Business Analyst:
+Project Manager:
+CTO:
+
+
+                  Phase 2: Design
+
+
+
+                  Phase 3: Development
+
+
+                  Phase 4: Testing
+
+
+
+                   Phase 5: Deployment
+
+
+
+
+                    Phase 6: Maintenance
+
+
+
