@@ -1,0 +1,22 @@
+
+*)What is an Algorithm?
+ A step-by-step set of instructions to solve a problem.
+
+*)Characteristics of a Good Algorithm :
+1. Correctness 
+2. Efficiency 
+3. Clarity 
+4. Finiteness  
+5. Generality
+
+*)Types of Algorithms :
+1. Sequential Algorithm
+2. Iterative Algorithm
+3. Recursive Algorithm
+
+
+*)Algorithms Examples: 
+1. Find the Largest Number in a List
+2. Count the Number of Vowels in a String
+3. Reverse a String
+
