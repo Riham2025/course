@@ -1,0 +1,19 @@
+mention all the cloud repositories that uses git version control and compare between them
+
+
+           GitHub:
+Features: pull requests, issue tracking, project boards, GitHub Actions (CI/CD), GitHub Pages
+Pricing: Free for public repositories
+
+
+
+           GitLab:
+Git repository management, issue tracking, CI/CD, code review, security scanning, container registry
+Pricing: Free for basic features
+
+
+
+
+          Bitbucket:
+Git repository management, pull requests, issue tracking, CI/CD (Bitbucket Pipelines), code review
+Pricing: Free for small teams (up to 5 users)
