@@ -1,0 +1,4 @@
+explain the agile methodology of working and its purposes
+
+explain : An iterative approach to project management and software development that helps teams deliver value to their customers faster and with less risk.
+purposes : It is designed to deliver smaller pieces of work regularly, allowing teams to adapt to changes quickly and provide customer value faster.
