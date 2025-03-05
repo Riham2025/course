@@ -1,0 +1,26 @@
+state all the web stacks that you know and compare between them : where to use, when to use, features
+
+.net :
+ Large-scale enterprise applications
+ High performance needs
+ Strong typing and compile-time error checking
+
+java : 
+Enterprise applications
+Cross-platform compatibility is crucial 
+Strong security features.
+
+lervel :
+ Web applications
+ Working with a PHP-based project.
+ Large and active community with extensive documentation.
+
+python :
+Web development , data science , machine learning 
+Data analysis, machine learning, or scientific computing are involved.
+Clear and concise syntax.
+
+ mern :
+Single-page applications (SPA)
+Real-time functionality is required.
+Scalable and performant architecture.
