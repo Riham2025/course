@@ -1,0 +1,17 @@
+git init: Initialises a new Git repository.
+
+git clone <url>: Clones an existing repository.
+
+git add <file>: Adds a file to the staging area.
+
+git commit -m "message": Commits staged changes with a descriptive message.
+
+git push <remote> <branch>: Pushes local commits to a remote repository.
+
+git pull <remote> <branch>: Pulls changes from a remote repository.
+
+git status: Shows the status of the working directory and staging area.
+
+git log: Displays the commit history.
+
+git diff: Shows the differences between files.
