@@ -1,0 +1,5 @@
+state all the tools of development that are used in .Net stack
+.NET Framework
+.NET Core 
+ Blazor
+ Docker
