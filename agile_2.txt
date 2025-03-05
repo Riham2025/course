@@ -1,0 +1,103 @@
+compare between agile and waterfall models  advantage, disadvantage, when to use it, best practice of both
+
+1)agile
+
+Advantages:
+
+High flexibility and adaptability to change
+
+Continuous customer involvement and feedback
+
+Faster delivery of working software increments
+
+Improved team collaboration and communication
+
+Suitable for projects with evolving requirements and uncertainty
+
+Disadvantages:
+
+Requires high customer involvement and commitment
+
+Can be difficult to manage large, complex projects
+
+Less predictable project timeline and budget
+
+Requires experienced and self-organising teams
+
+Risk of scope creep if not managed effectively
+
+
+2) waterfall
+Advantages:
+
+Clear, fixed requirements upfront
+
+Simple to understand and manage
+
+Well-suited for projects with stable requirements and fixed scope
+
+Extensive documentation facilitates knowledge transfer
+
+Project timeline and budget are precisely estimated
+
+Disadvantages:
+
+Inflexible to change once a phase is complete
+
+High risk if initial requirements are incorrect
+
+Long delivery cycles can delay feedback
+
+Limited customer involvement throughout the project
+
+Not suitable for projects with evolving requirements
+
+Waterfall: when it use
+
+Projects with well-defined, stable requirements
+
+Fixed scope, budget, and timeline
+
+Projects where changes are costly or impossible
+
+Highly regulated industries with strict compliance requirements
+
+Projects involving large development teams
+
+Agile: when it use
+
+Projects with evolving or uncertain requirements
+
+Need for rapid iteration and feedback
+
+Projects where customer involvement is essential
+
+Smaller, cross-functional teams
+
+Innovation-driven projects
+
+
+Waterfall: Best Practices
+
+Comprehensive requirements gathering and documentation
+
+Rigorous change management process
+
+Detailed project planning and scheduling
+
+Quality assurance at each phase
+
+Formal sign-off at each stage before proceeding
+
+Agile: Best Practices
+
+Prioritise and refine the product backlog continuously
+
+Conduct regular sprint planning, daily stand-ups, and sprint reviews
+
+Embrace continuous integration and continuous delivery (CI/CD)
+
+Foster a collaborative and self-organising team culture
+
+Use retrospectives to continuously improve processes
+
