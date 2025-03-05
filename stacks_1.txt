@@ -1,0 +1,11 @@
+state all the web application parts and services
+
+.net :C# , .net
+
+ java : java , spring
+
+ lervel : my SQL , php lervel
+
+ python : python , django
+
+  mern : mango DB , noolejs , expuess
