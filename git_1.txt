@@ -1,0 +1,33 @@
+explain in detail the git version control system explaining why and when we use it and all the related terms?
+
+Facilitates teamwork by allowing multiple developers to work on the same project simultaneously.
+Enables experimentation and feature development without disrupting the main codebase.
+Provides a detailed history of modifications, allowing easy rollback to previous versions.
+Acts as a remote backup of the codebase, protecting against data loss.
+Maintains a complete audit trail of who made what changes and when, improving.
+
+Working Directory: The files you are currently editing on your local machine.
+
+Staging Area: A holding area for changes you want to commit.
+
+commit (.git directory): The database where Git stores all the project's history and metadata.
+
+git init: Initialises a new Git repository.
+
+git clone <url>: Clones an existing repository.
+
+git add <file>: Adds a file to the staging area.
+
+git commit -m "message": Commits staged changes with a descriptive message.
+
+git push <remote> <branch>: Pushes local commits to a remote repository.
+
+git pull <remote> <branch>: Pulls changes from a remote repository.
+
+git status: Shows the status of the working directory and staging area.
+
+git log: Displays the commit history.
+
+git diff: Shows the differences between files.
+
+Setting up a remote repository on GitHub, GitLab, or Bitbucket.
