@@ -1,0 +1,6 @@
+state all the frameworks that you know are used for implementing agile
+1-Scrum
+2-Kanban
+3-Extreme Programming (XP)
+4-Lean
+5-Feature-Driven Development (FDD)
