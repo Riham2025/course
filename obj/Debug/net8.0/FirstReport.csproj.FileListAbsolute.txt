@@ -1,0 +1,14 @@
+C:\Users\CodeLine\source\repos\FirstReport\bin\Debug\net8.0\FirstReport.exe
+C:\Users\CodeLine\source\repos\FirstReport\bin\Debug\net8.0\FirstReport.deps.json
+C:\Users\CodeLine\source\repos\FirstReport\bin\Debug\net8.0\FirstReport.runtimeconfig.json
+C:\Users\CodeLine\source\repos\FirstReport\bin\Debug\net8.0\FirstReport.dll
+C:\Users\CodeLine\source\repos\FirstReport\bin\Debug\net8.0\FirstReport.pdb
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.AssemblyInfoInputs.cache
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.AssemblyInfo.cs
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.csproj.CoreCompileInputs.cache
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.dll
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\refint\FirstReport.dll
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.pdb
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\FirstReport.genruntimeconfig.cache
+C:\Users\CodeLine\source\repos\FirstReport\obj\Debug\net8.0\ref\FirstReport.dll
